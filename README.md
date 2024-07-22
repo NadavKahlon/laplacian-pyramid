@@ -24,7 +24,7 @@ some of which are:
 * Compression: since most of visual information is 
 usually low-resolution, the high-resolution layers
 of information are rather spurious - and can be
-effectively compressed.
+effectively cleaned and compressed.
 * Blending: we may selectively combine the visual
 information at different levels of resolutions, to
 blend images together.
