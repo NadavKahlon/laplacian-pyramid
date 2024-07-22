@@ -6,6 +6,9 @@ encoding algorithm for images, as described in the
 Code_ by Peter J. Burt & Edward H. Adelson. It is
 also utilized to implement image blending.
 
+This is an old project I worked on back in 2021,
+and uploaded to GitHub in 2024.
+
 ## Background
 
 The Laplacian Pyramid is a decomposition of the 
